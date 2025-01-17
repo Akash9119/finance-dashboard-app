@@ -1,0 +1,82 @@
+[
+    {
+      "user_name": "kjoreau0",
+      "email_address": "bsewley0@csmonitor.com",
+      "password": "iU0)D*d|",
+      "age": 18,
+      "gender": "Female",
+      "phone_number": "888-370-4217"
+    },
+    {
+      "user_name": "gmarques1",
+      "email_address": "kondrasek1@delicious.com",
+      "password": "lZ6{K\\h`!~yh!=,",
+      "age": 27,
+      "gender": "Male",
+      "phone_number": "318-539-9946"
+    },
+    {
+      "user_name": "vtomkin2",
+      "email_address": "rdrewery2@scientificamerican.com",
+      "password": "rK0~P@7QC`",
+      "age": 57,
+      "gender": "Female",
+      "phone_number": "584-997-5493"
+    },
+    {
+      "user_name": "bschafer3",
+      "email_address": "lfollett3@youtu.be",
+      "password": "iT9%oU8\\O",
+      "age": 80,
+      "gender": "Female",
+      "phone_number": "324-748-0933"
+    },
+    {
+      "user_name": "acarmel4",
+      "email_address": "tstrattan4@usa.gov",
+      "password": "yQ6%+4_fXxo'_YJg",
+      "age": 29,
+      "gender": "Genderqueer",
+      "phone_number": "482-306-5515"
+    },
+    {
+      "user_name": "rbracey5",
+      "email_address": "hgudd5@yandex.ru",
+      "password": "gI1*0bkcW49Ly}ay",
+      "age": 45,
+      "gender": "Female",
+      "phone_number": "695-777-9131"
+    },
+    {
+      "user_name": "imuglestone6",
+      "email_address": "ieakle6@reverbnation.com",
+      "password": "rO1=dqp=$WmRj",
+      "age": 42,
+      "gender": "Male",
+      "phone_number": "292-360-1589"
+    },
+    {
+      "user_name": "rmucillo7",
+      "email_address": "cgude7@webnode.com",
+      "password": "iA1#qN|n?3x#s",
+      "age": 39,
+      "gender": "Male",
+      "phone_number": "749-726-6164"
+    },
+    {
+      "user_name": "bmckinless8",
+      "email_address": "mmcharry8@sourceforge.net",
+      "password": "kW4&`XM>m`CO@y",
+      "age": 34,
+      "gender": "Female",
+      "phone_number": "792-910-0363"
+    },
+    {
+      "user_name": "zparrin9",
+      "email_address": "kshreenan9@sitemeter.com",
+      "password": "fZ2(FHdZJ4@''4s",
+      "age": 73,
+      "gender": "Non-binary",
+      "phone_number": "256-397-0656"
+    }
+  ]
