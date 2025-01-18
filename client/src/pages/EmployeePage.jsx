@@ -5,14 +5,22 @@ import Sidebar from '../components/Sidebar';
 const EmployeePage = () => {
   return (
     <div className="flex">
-      <div className="w-1/5">
-        <Sidebar />
-      </div>
-      <div className="w-4/5 p-4">
-        <EmployeeTable />
-      </div>
+      <SidebarWrapper />
+      <MainContent />
     </div>
   );
 };
+
+const SidebarWrapper = () => (
+  <div className="w-1/5">
+    <Sidebar />
+  </div>
+);
+
+const MainContent = () => (
+  <div className="w-4/5 p-4">
+    <EmployeeTable />
+  </div>
+);
 
 export default EmployeePage;

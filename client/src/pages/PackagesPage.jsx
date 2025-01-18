@@ -31,7 +31,7 @@ const PackagesPage = () => {
         <Sidebar />
       </div>
       <div className="w-full md:w-4/5 p-4">
-      <h1 className="text-2xl font-bold mb-4 text-center">Add New Package</h1>
+        <h1 className="text-2xl font-bold mb-4 text-center">Add New Package</h1>
         <PackageForm formData={formData} handleChange={handleChange} handleSubmit={handleSubmit} />
       </div>
     </div>
