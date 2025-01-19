@@ -1,13 +1,13 @@
 import React from 'react';
-import { useHistory } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom'; // Updated import
 import FormField from './FormField';
 
 const PackageForm = ({ formData, handleChange, handleSubmit }) => {
-  const history = useHistory();
+  const navigate = useNavigate(); // Updated hook
 
   const onSubmit = (e) => {
     handleSubmit(e);
-    history.push('/success'); // Redirect to success page after form submission
+    navigate('/success'); // Updated redirect
   };
 
   return (

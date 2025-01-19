@@ -1,6 +1,6 @@
 import React from 'react';
 import Sidebar from '../components/Sidebar';
-import Dashboard from '../components/Dashboard';
+import DashboardContent from '../components/DashboardContent';
 
 const DashboardPage = () => {
   return (
@@ -9,7 +9,7 @@ const DashboardPage = () => {
         <Sidebar />
       </div>
       <div className="w-4/5 p-4">
-        <Dashboard />
+        <DashboardContent />
       </div>
     </div>
   );
